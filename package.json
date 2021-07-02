@@ -2,7 +2,7 @@
   "name": "@atian25/github-actions-test",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo 'Test Pass'",
+    "test": "echo 'Test Pass!'",
     "start": "node index.js"
   }
 }
