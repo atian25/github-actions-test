@@ -1,6 +1,6 @@
 {
   "name": "@atian25/github-actions-test",
-  "version": "1.0.0",
+  "version": "1.2.5",
   "description": "test",
   "scripts": {
     "test": "echo 'Test Pass!'",
