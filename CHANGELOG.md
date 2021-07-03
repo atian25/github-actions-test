@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/atian25/github-actions-test/compare/v1.2.6...v1.2.7) (2021-07-03)
+
+
+### Bug Fixes
+
+* github release ([149e3fe](https://github.com/atian25/github-actions-test/commit/149e3fe4f0ad25150f02ddb0581377485e9662b0))
+
 ## [1.2.6](https://github.com/atian25/github-actions-test/compare/v1.2.5...v1.2.6) (2021-07-03)
 
 
