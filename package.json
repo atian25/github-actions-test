@@ -4,5 +4,8 @@
   "scripts": {
     "test": "echo 'Test Pass!'",
     "start": "node index.js"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
   }
 }
