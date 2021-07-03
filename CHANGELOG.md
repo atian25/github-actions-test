@@ -1,6 +1,18 @@
 # [1.3.0](https://github.com/atian25/github-actions-test/compare/v1.2.7...v1.3.0) (2021-07-03)
 
 
+### Bug Fixes
+
+* tag dup ([5b6c597](https://github.com/atian25/github-actions-test/commit/5b6c59743d701a057b0fd15455f17b855ff3db46))
+
+
+### Features
+
+* auto release ([224bad4](https://github.com/atian25/github-actions-test/commit/224bad40b89e3c5ffbbd3975a2b33cafe4210998))
+
+# [1.3.0](https://github.com/atian25/github-actions-test/compare/v1.2.7...v1.3.0) (2021-07-03)
+
+
 ### Features
 
 * auto release ([224bad4](https://github.com/atian25/github-actions-test/commit/224bad40b89e3c5ffbbd3975a2b33cafe4210998))
