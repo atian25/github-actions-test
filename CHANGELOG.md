@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/atian25/github-actions-test/compare/v1.2.7...v1.3.0) (2021-07-03)
+
+
+### Features
+
+* auto release ([224bad4](https://github.com/atian25/github-actions-test/commit/224bad40b89e3c5ffbbd3975a2b33cafe4210998))
+
 ## [1.2.7](https://github.com/atian25/github-actions-test/compare/v1.2.6...v1.2.7) (2021-07-03)
 
 
