@@ -18,7 +18,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
           scope: "@atian25"
       - name: Install dependencies
-        run: npm test
+        run: npm i
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
