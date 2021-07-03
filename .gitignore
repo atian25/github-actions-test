@@ -104,4 +104,4 @@ dist
 .tern-port
 
 .vscode
-node_modules
+node_modules/
