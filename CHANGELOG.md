@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/atian25/github-actions-test/compare/v1.2.5...v1.2.6) (2021-07-03)
+
+
+### Bug Fixes
+
+* lock json ([d01a978](https://github.com/atian25/github-actions-test/commit/d01a978b04d4f9bfbce173f427cab53482578946))
+
 ## [1.2.5](https://github.com/atian25/github-actions-test/compare/v1.2.4...v1.2.5) (2021-07-03)
 
 
